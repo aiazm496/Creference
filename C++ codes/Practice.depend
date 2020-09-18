@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599927740 source:c:\users\test\desktop\c++\practice\main.cpp
+	<iostream>
+
+1599928965 source:c:\users\test\desktop\c++\practice\var.cpp
+	<iostream>
+
